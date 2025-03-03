@@ -1,0 +1,11 @@
+Food_Item,Recipe
+Pizza,"Dough, Tomato Sauce, Cheese, Bake at 220°C for 15 min"
+Burger,"Bun, Patty, Lettuce, Tomato, Cheese, Serve with Fries"
+Pasta,"Boil Pasta, Add Sauce, Cook for 10 min"
+Salad,"Lettuce, Tomato, Cucumber, Olive Oil, Salt, Pepper"
+Sandwich,"Bread, Butter, Cheese, Lettuce, Tomato"
+Omelette,"Eggs, Salt, Pepper, Cook in a pan"
+Pancakes,"Flour, Milk, Eggs, Sugar, Cook on a pan"
+Soup,"Vegetables, Water, Spices, Boil for 20 min"
+Fries,"Potatoes, Oil, Salt, Fry until golden brown"
+Sushi,"Rice, Seaweed, Fish, Roll and Serve"
